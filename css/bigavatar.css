@@ -1,0 +1,18 @@
+
+#bigavatar {
+  position: absolute;
+  right: 0px;
+}
+
+#introText {
+  position: absolute;
+  font-family: 'Purisa', 'Courier New';
+  font-size: 25px;
+  text-align: right;
+
+  color: #ffffff;
+}
+
+body {
+  background: #000000;
+}
